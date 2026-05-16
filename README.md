@@ -18,7 +18,7 @@ No SQL databases were used, since the program doesn't require crazy data volumes
 # 
 You can run this code by:
 - Double clicking main.py, or
-- Openning it directly by your terminal, given you are inside the project's directory.
+- Opening it directly by your terminal, given you are inside the project's directory.
 
   For Windows 10 and 11 systems, execute:
     ```
