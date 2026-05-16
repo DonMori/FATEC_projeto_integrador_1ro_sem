@@ -5,7 +5,7 @@ FATEC_projeto_integrador_1ro_sem
 > This program can be run on your command line interface (CMD, Powershell or the CLI used by yout IDE).
 ---
 
-When run, it asks for the current program operator, stores it, and then shows a menu.
+When run, it asks for the current program operator's name, stores it, and then shows a menu.
 
 The menu assigns to each number, from 1 to 10, a functionality regarding CRUD functions related to clients and client scheduling.
 
